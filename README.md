@@ -1,9 +1,9 @@
-## Welcome to GitHub Pages
+## Fiber OS
 
-You can use the [editor on GitHub](https://github.com/swiftlysstuff/FiberOS/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Fiber OS is a continuation of the original Fiber OS by Scratch user N25Games. It is based on Fiber8 (ironically hosted on the Scratch account Fiber7) and aims to continue the original Fiber OS by adding new features and modifying existing ones.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+Current (unreleased) Version: Fiber OS 9 (codenamed Neo)
+As of now it is still being worked on.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
