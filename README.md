@@ -5,34 +5,28 @@ Fiber OS is a continuation of the original Fiber OS by Scratch user N25Games. It
 Current (unreleased) Version: Fiber OS 9 (codenamed Neo)
 
 As of now it is still being worked on.
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Changes since Fiber8:
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- Revamped icons.
+- Changed Settings animation.
+- Fiber Bar is now on the right where the Clock is.
+- Added a dark mode.
+- Fiber Bar now moves some content to the left when it appears. 
+- Adaptive Background similar to MacOS Mojave (changes with modes).
+- Fixed a few bugs and removed unnecessary/unused sprites.
+- Music functionality is restored.
+- More to come in the future!
 ```
+### To-do:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/swiftlysstuff/FiberOS/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+```markdown
+- Add a boot up and shutdown animation.
+- Add a better assistant.
+- Fix the Calculator app.
+- Make the Calender app something more than an empty screen.
+- Add some games!
+- Fix the Camera app.
+```
+### Want to help?
+Soon there will be a Google Forms page. It will most likely ask for email and what you can contribute (art, coding, testing, etc). If you are accepted you will receive an email with a download link as well as hopefully an invite to a Hangouts chat.
