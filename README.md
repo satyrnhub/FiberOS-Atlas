@@ -2,7 +2,7 @@
 
 Fiber OS is a continuation of the original Fiber OS by Scratch user N25Games. It is based on Fiber8 (ironically hosted on the Scratch account Fiber7) and aims to continue the original Fiber OS by adding new features and modifying existing ones.
 
-Current (unreleased) Version: Fiber OS 9 (codenamed Neo)
+Current (unreleased) Version: Fiber OS 9 (codenamed Atlas)
 
 As of now it is still being worked on.
 ### Changes since Fiber8:
