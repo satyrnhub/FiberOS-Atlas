@@ -16,6 +16,7 @@ As of now it is still being worked on.
 - Adaptive Background similar to MacOS Mojave (changes with modes).
 - Fixed a few bugs and removed unnecessary/unused sprites.
 - Music functionality is restored.
+- Fixed issues with Settings after restart.
 - More to come in the future!
 ```
 ### To-do:
@@ -27,6 +28,7 @@ As of now it is still being worked on.
 - Make the Calender app something more than an empty screen.
 - Add some games!
 - Fix the Camera app.
+- Fix issues with Settings after closing while in Fiber Bar.
 ```
 ### Want to help?
 Soon there will be a Google Forms page. It will most likely ask for email and what you can contribute (art, coding, testing, etc). If you are accepted you will receive an email with a download link as well as hopefully an invite to a Hangouts chat.
