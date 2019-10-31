@@ -5,6 +5,8 @@ Fiber OS is a continuation of the original Fiber OS by Scratch user N25Games. It
 Current (unreleased) Version: Fiber OS 9 (codenamed Atlas)
 
 As of now it is still being worked on.
+
+NOTE: Sorry for the lack of updates. An alpha version will be coming very soon.
 ### Changes since Fiber8:
 
 ```markdown
