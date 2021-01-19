@@ -9,12 +9,12 @@ As of now it is still being worked on.
 
 ```markdown
 - Revamped icons.
+- Smoothed out home screen animations.
 - More to come in the future!
 ```
 ### To-do:
 
 ```markdown
-- Change Settings animation.
 - Make Fiber Bar be on the right where the Clock is.
 - Add a dark mode.
 - Make Fiber Bar move some content to the left when it appears. 
