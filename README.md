@@ -5,12 +5,15 @@ Fiber OS is a continuation of the original Fiber OS by Scratch user N25Games. It
 Current (unreleased) Version: Fiber OS 9 (codenamed Atlas)
 
 As of now it is still being worked on.
-
-NOTE: Sorry for the lack of updates. An alpha version will be coming very soon.
 ### Changes since Fiber8:
 
 ```markdown
 - Revamped icons.
+- More to come in the future!
+```
+### To-do:
+
+```markdown
 - Changed Settings animation.
 - Fiber Bar is now on the right where the Clock is.
 - Added a dark mode.
@@ -19,11 +22,6 @@ NOTE: Sorry for the lack of updates. An alpha version will be coming very soon.
 - Fixed a few bugs and removed unnecessary/unused sprites.
 - Music functionality is restored.
 - Fixed issues with Settings after restart.
-- More to come in the future!
-```
-### To-do:
-
-```markdown
 - Add a boot up and shutdown animation.
 - Add a better assistant.
 - Fix the Calculator app.
@@ -33,4 +31,4 @@ NOTE: Sorry for the lack of updates. An alpha version will be coming very soon.
 - Fix issues with Settings after closing while in Fiber Bar.
 ```
 ### Want to help?
-Soon there will be a Google Forms page. It will most likely ask for email and what you can contribute (art, coding, testing, etc). If you are accepted you will receive an email with a download link as well as hopefully an invite to a Hangouts chat.
+Remix the project, and ask me privately to add your changes.
