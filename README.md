@@ -1,8 +1,8 @@
-## Fiber OS
+## Fiber OS Atlas
 
-Fiber OS is a continuation of the original Fiber OS by Scratch user N25Games. It is based on Fiber8 (ironically hosted on the Scratch account Fiber7) and aims to continue the original Fiber OS by adding new features and modifying existing ones.
+Fiber OS Atlas is a continuation of the original Fiber OS by Scratch user N25Games. It is based on Fiber8 (ironically hosted on the Scratch account Fiber7) and aims to continue the original Fiber OS by adding new features and modifying existing ones.
 
-Current (unreleased) Version: Fiber OS 9 (codenamed Atlas)
+Current Version: 9.0 Alpha 1
 
 As of now it is still being worked on.
 ### Changes since Fiber8:
