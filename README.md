@@ -14,14 +14,14 @@ As of now it is still being worked on.
 ### To-do:
 
 ```markdown
-- Changed Settings animation.
-- Fiber Bar is now on the right where the Clock is.
-- Added a dark mode.
-- Fiber Bar now moves some content to the left when it appears. 
+- Change Settings animation.
+- Make Fiber Bar be on the right where the Clock is.
+- Add a dark mode.
+- Make Fiber Bar move some content to the left when it appears. 
 - Adaptive Background similar to MacOS Mojave (changes with modes).
-- Fixed a few bugs and removed unnecessary/unused sprites.
-- Music functionality is restored.
-- Fixed issues with Settings after restart.
+- Fix a few bugs and remove unneeded sprites.
+- Restore music functionality.
+- Fix issues with Settings after restart.
 - Add a boot up and shutdown animation.
 - Add a better assistant.
 - Fix the Calculator app.
