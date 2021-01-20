@@ -10,6 +10,9 @@ As of now it is still being worked on.
 ```markdown
 - Revamped icons.
 - Smoothed out home screen animations.
+- Improved music functionality.
+- Partially implemented dark mode.
+- Implemented adaptive background (sorta).
 - More to come in the future!
 ```
 ### To-do:
@@ -17,10 +20,8 @@ As of now it is still being worked on.
 ```markdown
 - Make Fiber Bar be on the right where the Clock is.
 - Add a dark mode.
-- Make Fiber Bar move some content to the left when it appears. 
 - Adaptive Background similar to MacOS Mojave (changes with modes).
 - Fix a few bugs and remove unneeded sprites.
-- Restore music functionality.
 - Fix issues with Settings after restart.
 - Add a boot up and shutdown animation.
 - Add a better assistant.
