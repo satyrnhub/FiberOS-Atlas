@@ -12,16 +12,14 @@ As of now it is still being worked on.
 - Smoothed out home screen animations.
 - Improved music functionality.
 - Partially implemented dark mode.
-- Implemented adaptive background (sorta).
-- Removed access to the Tutorial via Settings (It's kind of unneeded, everyone knows how the old versions work by now, and nothing really changed...)
+- Removed access to the Tutorial via Settings.
 - More to come in the future!
 ```
 ### To-do:
 
 ```markdown
 - Make Fiber Bar be on the right where the Clock is.
-- Add a dark mode.
-- Adaptive Background similar to MacOS Mojave (changes with modes).
+- Finish dark mode.
 - Fix a few bugs and remove unneeded sprites.
 - Fix issues with Settings after restart.
 - Add a boot up and shutdown animation.
