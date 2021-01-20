@@ -13,6 +13,7 @@ As of now it is still being worked on.
 - Improved music functionality.
 - Partially implemented dark mode.
 - Implemented adaptive background (sorta).
+- Removed access to the Tutorial via Settings (It's kind of unneeded, everyone knows how the old versions work by now, and nothing really changed...)
 - More to come in the future!
 ```
 ### To-do:
